@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\bin\Debug\net5.0\1-5 MagicDates.exe
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\bin\Debug\net5.0\1-5 MagicDates.deps.json
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\bin\Debug\net5.0\1-5 MagicDates.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\bin\Debug\net5.0\1-5 MagicDates.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\bin\Debug\net5.0\1-5 MagicDates.dll
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\bin\Debug\net5.0\ref\1-5 MagicDates.dll
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\bin\Debug\net5.0\1-5 MagicDates.pdb
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.dll
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\ref\1-5 MagicDates.dll
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.pdb
+C:\Users\Sandanova\Documents\homework\1-5 MagicDates\obj\Debug\net5.0\1-5 MagicDates.genruntimeconfig.cache

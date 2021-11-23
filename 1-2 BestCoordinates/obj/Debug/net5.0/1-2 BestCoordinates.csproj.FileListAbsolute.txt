@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\bin\Debug\net5.0\1-2 BestCoordinates.exe
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\bin\Debug\net5.0\1-2 BestCoordinates.deps.json
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\bin\Debug\net5.0\1-2 BestCoordinates.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\bin\Debug\net5.0\1-2 BestCoordinates.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\bin\Debug\net5.0\1-2 BestCoordinates.dll
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\bin\Debug\net5.0\ref\1-2 BestCoordinates.dll
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\bin\Debug\net5.0\1-2 BestCoordinates.pdb
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.dll
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\ref\1-2 BestCoordinates.dll
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.pdb
+C:\Users\Sandanova\Documents\homework\1-2 BestCoordinates\obj\Debug\net5.0\1-2 BestCoordinates.genruntimeconfig.cache

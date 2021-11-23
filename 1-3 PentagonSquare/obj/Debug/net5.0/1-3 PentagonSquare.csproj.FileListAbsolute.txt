@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\bin\Debug\net5.0\1-3 PentagonSquare.exe
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\bin\Debug\net5.0\1-3 PentagonSquare.deps.json
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\bin\Debug\net5.0\1-3 PentagonSquare.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\bin\Debug\net5.0\1-3 PentagonSquare.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\bin\Debug\net5.0\1-3 PentagonSquare.dll
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\bin\Debug\net5.0\ref\1-3 PentagonSquare.dll
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\bin\Debug\net5.0\1-3 PentagonSquare.pdb
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.dll
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\ref\1-3 PentagonSquare.dll
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.pdb
+C:\Users\Sandanova\Documents\homework\1-3 PentagonSquare\obj\Debug\net5.0\1-3 PentagonSquare.genruntimeconfig.cache

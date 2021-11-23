@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\bin\Debug\net5.0\2-1 RomeNumbers.exe
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\bin\Debug\net5.0\2-1 RomeNumbers.deps.json
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\bin\Debug\net5.0\2-1 RomeNumbers.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\bin\Debug\net5.0\2-1 RomeNumbers.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\bin\Debug\net5.0\2-1 RomeNumbers.dll
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\bin\Debug\net5.0\ref\2-1 RomeNumbers.dll
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\bin\Debug\net5.0\2-1 RomeNumbers.pdb
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.dll
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\ref\2-1 RomeNumbers.dll
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.pdb
+C:\Users\Sandanova\Documents\homework\2-1 RomeNumbers\obj\Debug\net5.0\2-1 RomeNumbers.genruntimeconfig.cache

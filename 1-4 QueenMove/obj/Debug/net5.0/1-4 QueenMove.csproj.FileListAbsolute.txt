@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\bin\Debug\net5.0\1-4 QueenMove.exe
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\bin\Debug\net5.0\1-4 QueenMove.deps.json
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\bin\Debug\net5.0\1-4 QueenMove.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\bin\Debug\net5.0\1-4 QueenMove.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\bin\Debug\net5.0\1-4 QueenMove.dll
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\bin\Debug\net5.0\ref\1-4 QueenMove.dll
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\bin\Debug\net5.0\1-4 QueenMove.pdb
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.dll
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\ref\1-4 QueenMove.dll
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.pdb
+C:\Users\Sandanova\Documents\homework\1-4 QueenMove\obj\Debug\net5.0\1-4 QueenMove.genruntimeconfig.cache
