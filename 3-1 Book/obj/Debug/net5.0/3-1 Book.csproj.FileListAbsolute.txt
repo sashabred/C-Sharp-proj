@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\3-1 Book\bin\Debug\net5.0\3-1 Book.exe
+C:\Users\Sandanova\Documents\homework\3-1 Book\bin\Debug\net5.0\3-1 Book.deps.json
+C:\Users\Sandanova\Documents\homework\3-1 Book\bin\Debug\net5.0\3-1 Book.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\3-1 Book\bin\Debug\net5.0\3-1 Book.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\3-1 Book\bin\Debug\net5.0\3-1 Book.dll
+C:\Users\Sandanova\Documents\homework\3-1 Book\bin\Debug\net5.0\ref\3-1 Book.dll
+C:\Users\Sandanova\Documents\homework\3-1 Book\bin\Debug\net5.0\3-1 Book.pdb
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.dll
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\ref\3-1 Book.dll
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.pdb
+C:\Users\Sandanova\Documents\homework\3-1 Book\obj\Debug\net5.0\3-1 Book.genruntimeconfig.cache
