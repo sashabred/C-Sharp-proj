@@ -1,0 +1,37 @@
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\UnitTestLinq.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\UnitTestLinq.pdb
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\LinqExample.exe
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\LinqExample.pdb
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\LinqExample.exe.config
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.csprojAssemblyReference.cache
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.csproj.CoreCompileInputs.cache
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.csproj.CopyComplete
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.dll
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.pdb
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\UnitTestLinq.dll
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\UnitTestLinq.pdb
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\LinqExample.exe
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\LinqExample.pdb
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\LinqExample.exe.config
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.csproj.AssemblyReference.cache
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.csproj.CoreCompileInputs.cache
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.csproj.CopyComplete
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.dll
+C:\Users\TempUser\Desktop\UnitTestLinq\UnitTestLinq\obj\Debug\UnitTestLinq.pdb

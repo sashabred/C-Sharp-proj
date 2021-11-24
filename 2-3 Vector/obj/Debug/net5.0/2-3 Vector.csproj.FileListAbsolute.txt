@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\2-3 Vector\bin\Debug\net5.0\2-3 Vector.exe
+C:\Users\Sandanova\Documents\homework\2-3 Vector\bin\Debug\net5.0\2-3 Vector.deps.json
+C:\Users\Sandanova\Documents\homework\2-3 Vector\bin\Debug\net5.0\2-3 Vector.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\2-3 Vector\bin\Debug\net5.0\2-3 Vector.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\2-3 Vector\bin\Debug\net5.0\2-3 Vector.dll
+C:\Users\Sandanova\Documents\homework\2-3 Vector\bin\Debug\net5.0\ref\2-3 Vector.dll
+C:\Users\Sandanova\Documents\homework\2-3 Vector\bin\Debug\net5.0\2-3 Vector.pdb
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.dll
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\ref\2-3 Vector.dll
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.pdb
+C:\Users\Sandanova\Documents\homework\2-3 Vector\obj\Debug\net5.0\2-3 Vector.genruntimeconfig.cache

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace _1_2_BestCoordinates
 {
@@ -37,8 +38,8 @@ namespace _1_2_BestCoordinates
                 if (input == "q") break;
                 double[] xAndY = new double[2];
                 string[] inputDiv = input.Split(',');
-                xAndY[0] = double.Parse(inputDiv[0]);
-                xAndY[1] = double.Parse(inputDiv[1]);
+                xAndY[0] = Convert.ToDouble(inputDiv[0].Replace(".", ","));
+                xAndY[1] = Convert.ToDouble(inputDiv[1].Replace(".", ","));
                 coords.Add(xAndY);
             }
             return coords;

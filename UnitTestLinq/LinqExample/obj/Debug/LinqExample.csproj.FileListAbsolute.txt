@@ -1,0 +1,11 @@
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\LinqExample\obj\Debug\LinqExample.csprojAssemblyReference.cache
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\Oleg Tretiakov\source\repos\UnitTestLinq\LinqExample\obj\Debug\LinqExample.pdb
+C:\Users\TempUser\Desktop\UnitTestLinq\LinqExample\obj\Debug\LinqExample.csproj.AssemblyReference.cache
+C:\Users\TempUser\Desktop\UnitTestLinq\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\TempUser\Desktop\UnitTestLinq\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\TempUser\Desktop\UnitTestLinq\LinqExample\obj\Debug\LinqExample.pdb

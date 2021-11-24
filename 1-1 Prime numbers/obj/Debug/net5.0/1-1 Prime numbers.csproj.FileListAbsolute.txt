@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\bin\Debug\net5.0\1-1 Prime numbers.exe
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\bin\Debug\net5.0\1-1 Prime numbers.deps.json
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\bin\Debug\net5.0\1-1 Prime numbers.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\bin\Debug\net5.0\1-1 Prime numbers.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\bin\Debug\net5.0\1-1 Prime numbers.dll
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\bin\Debug\net5.0\ref\1-1 Prime numbers.dll
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\bin\Debug\net5.0\1-1 Prime numbers.pdb
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.dll
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\ref\1-1 Prime numbers.dll
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.pdb
+C:\Users\Sandanova\Documents\homework\1-1 Prime numbers\obj\Debug\net5.0\1-1 Prime numbers.genruntimeconfig.cache

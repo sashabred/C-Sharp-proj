@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\bin\Debug\net5.0\2-2 FamilyName.exe
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\bin\Debug\net5.0\2-2 FamilyName.deps.json
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\bin\Debug\net5.0\2-2 FamilyName.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\bin\Debug\net5.0\2-2 FamilyName.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\bin\Debug\net5.0\2-2 FamilyName.dll
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\bin\Debug\net5.0\ref\2-2 FamilyName.dll
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\bin\Debug\net5.0\2-2 FamilyName.pdb
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.dll
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\ref\2-2 FamilyName.dll
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.pdb
+C:\Users\Sandanova\Documents\homework\2-2 FamilyName\obj\Debug\net5.0\2-2 FamilyName.genruntimeconfig.cache
