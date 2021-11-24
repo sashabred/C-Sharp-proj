@@ -1,0 +1,16 @@
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\bin\Debug\net5.0\4-1 ConsoleApp.exe
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\bin\Debug\net5.0\4-1 ConsoleApp.deps.json
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\bin\Debug\net5.0\4-1 ConsoleApp.runtimeconfig.json
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\bin\Debug\net5.0\4-1 ConsoleApp.runtimeconfig.dev.json
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\bin\Debug\net5.0\4-1 ConsoleApp.dll
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\bin\Debug\net5.0\ref\4-1 ConsoleApp.dll
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\bin\Debug\net5.0\4-1 ConsoleApp.pdb
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.AssemblyInfo.cs
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.dll
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\ref\4-1 ConsoleApp.dll
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.pdb
+C:\Users\Sandanova\Documents\homework\4-1 ConsoleApp\obj\Debug\net5.0\4-1 ConsoleApp.genruntimeconfig.cache

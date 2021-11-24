@@ -1,10 +1,16 @@
-using System.Collections;
+
+using System.Collections.Generic;
 
 namespace FamilyName
+{
+    public class Person:IComparer<Person>
     {
-    public class Person
-    {
-        public string familyName {get;set;}
+        public  string Fam {get;set;}
 
+        public int Compare(Person x, Person y)
+        {
+            return x.Fam.CompareTo(y.Fam);
+        }
+        
     }
 }

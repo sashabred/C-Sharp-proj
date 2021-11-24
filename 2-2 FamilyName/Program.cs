@@ -7,15 +7,17 @@ namespace FamilyName
     {
         static void Main(string[] args)
         {
-            List<Person> family = new List<Person>();
-            Person per1 = new Person () {
-                familyName= "Sandanova"
-            };
-            family.Add(per1);
-    
-            family.Sort((x,y)=>x.familyName.CompareTo(y.familyName));
+            SortedSet<Person> familyNames = new SortedSet<Person> ();
+           
+            familyNames.Add(new Person{Fam ="Sandanova"});
+            familyNames.Add(new Person{Fam ="Tsidipova"});
+            familyNames.Add(new Person{Fam ="Yan"});
+            familyNames.Add(new Person{Fam ="Aru"});
 
-            family.ForEach(i => Console.WriteLine(i));
+            
+            familyNames.ForEach(i => Console.WriteLine(i));
+    
+           
         }
     }
 }
