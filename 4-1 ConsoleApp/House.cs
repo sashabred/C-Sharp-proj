@@ -9,8 +9,7 @@ namespace ConsoleApp
         public string Street {get;set;}
         public int Number {get;set;}
          
-         [NonSerialized]
-         public List<Flat> FlatsList = new List<Flat>();
+        public List<Flat> FlatsList = new List<Flat>();
        
          public void AddFlat(Flat flat) {
             FlatsList.Add(flat);           

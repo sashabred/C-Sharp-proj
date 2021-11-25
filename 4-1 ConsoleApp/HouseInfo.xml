@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<House xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FlatsList>
+    <Flat>
+      <Number>1</Number>
+      <Person>Sabd</Person>
+      <CountPersonLiving>0</CountPersonLiving>
+    </Flat>
+    <Flat>
+      <Number>2</Number>
+      <Person>Nahd</Person>
+      <CountPersonLiving>0</CountPersonLiving>
+    </Flat>
+    <Flat>
+      <Number>5</Number>
+      <CountPersonLiving>3</CountPersonLiving>
+    </Flat>
+  </FlatsList>
+  <Street>Babushkina</Street>
+  <Number>19</Number>
+</House>
